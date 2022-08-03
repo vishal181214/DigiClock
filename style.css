@@ -328,7 +328,7 @@ hr {
     left: 823px;
     width: 80px;
     height: 90px;
-    background: transparent url('./img/timeline.png') 0% 0% no-repeat padding-box;
+    background: transparent url(img/timeline.png) 0% 0% no-repeat padding-box;
     opacity: 1;
     margin-left: 5%;
     margin-top: 2.5%;
@@ -478,7 +478,7 @@ hr {
     left: 1121px;
     width: 82px;
     height: 90px;
-    background: transparent url('./img/AM_svg.png') 0% 0% no-repeat padding-box;
+    background: transparent url('img/AM_svg.png') 0% 0% no-repeat padding-box;
     opacity: 1;
     margin-top: 2.5%;
 }
